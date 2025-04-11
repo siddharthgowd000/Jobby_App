@@ -1,3 +1,49 @@
+# Jobby App
+
+**Jobby App** is a job searching web application built using **React (class components)**. Users can log in, browse job listings, filter results, and view detailed job descriptions. This project follows an older React coding style using **class-based components** and **no hooks**.
+
+---
+
+## 🧠 Tech Stack
+
+- **React (Class Components)**
+- **React Router (v5)**
+- **JSX**
+- **CSS**
+- **JWT Authentication using Cookies**
+- **CCBP APIs**
+
+---
+
+## ✨ Features
+
+- 🔐 Login with JWT authentication
+- 🧑‍💼 List of jobs with filters
+- 🔎 Search functionality
+- 📄 Detailed job description pages
+- ⚠️ Error handling for failed requests
+- 📱 Responsive design
+- ❌ 404 Not Found Route
+
+---
+
+## 🚀 Getting Started
+
+### 📦 Install & Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/siddharthgowd000/Jobby_App.git
+cd Jobby_App
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
+---
+
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
 ### Refer to videos below:
