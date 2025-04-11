@@ -27,22 +27,6 @@
 
 ---
 
-## 🚀 Getting Started
-
-### 📦 Install & Run Locally
-
-```bash
-# Clone the repo
-git clone https://github.com/siddharthgowd000/Jobby_App.git
-cd Jobby_App
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-
----
 
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
